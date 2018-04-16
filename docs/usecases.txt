@@ -1,1 +1,7 @@
+## testers
+
 1.execute smoketest on premise and cloud deployments
+## Devops
+ build this code base from jenkins
+2.deploy codebase tomacat
+3.use conig mangement
